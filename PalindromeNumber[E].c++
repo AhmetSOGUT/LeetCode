@@ -18,7 +18,8 @@ public:
             yenisayi = yenisayi * 10 + kalan;
             x /= 10;
         }
-
+ 
         return hasx == yenisayi; 
     }
 };
+ 
