@@ -38,7 +38,7 @@ public:
                     sum+=1000;
                 }
             }
- 
+
         }
 
         return sum;
